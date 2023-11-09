@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I’m Boxuan Li. I’m a first year master student in bioinformatics at Georgia tech, and I finished my bachelor degree in biological science at UC Irvine. My research interest is machine learning in microbiome studies. Now I’m working with Eli, Bengy and Hrishi on a project about machine learning on the epidemic Pseudomonas aeruginosa strains in CF patients. I’m also interested in the commensal bacteria in CF patients, and hope to use machine learning to observe the association between commensal bacteria and CF patients' health status. 
+
 <!--
 **BoxuanBobLi/BoxuanBobLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
